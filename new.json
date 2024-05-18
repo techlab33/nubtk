@@ -1,10 +1,12 @@
 [
     {
         "id": "1",
-        "name": "Its time to pray for salat.Come to Mosque"
+        "name": "Its time to pray for salat.Come to Mosque",
+        "image": "https://uxwing.com/wp-content/themes/uxwing/download/hand-gestures/good-icon.png"
     },
     {
         "id": "2",
-        "name": "Do not despair of the mercy of Allah"
+        "name": "Do not despair of the mercy of Allah",
+        "image": "https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png"
     }
 ]
